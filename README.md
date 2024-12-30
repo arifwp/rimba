@@ -2,10 +2,10 @@
 
 ## Deskripsi Umum Aplikasi
 Aplikasi ini merupakan backend sederhana untuk mengelola data pengguna (CRUD). Dibangun menggunakan Node.js dan Express.js, aplikasi ini menyediakan API untuk:
-	•	Create: Menambahkan data pengguna baru.
-	•	Read: Mendapatkan daftar semua pengguna atau detail satu pengguna berdasarkan ID.
-	•	Update: Memperbarui data pengguna berdasarkan ID.
-	•	Delete: Menghapus pengguna berdasarkan ID.
+- Create: Menambahkan data pengguna baru.
+- Read: Mendapatkan daftar semua pengguna atau detail satu pengguna berdasarkan ID.
+- Update: Memperbarui data pengguna berdasarkan ID.
+- Delete: Menghapus pengguna berdasarkan ID.
 
 ## Tech Stack
 - Node.js
